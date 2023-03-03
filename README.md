@@ -1,2 +1,2 @@
 ### Hi there 👋
-Mi  nomn es Diego Campos , estudiante de ingeniería en Software 
+Mi  nombre es Diego Campos , estudiante de ingeniería en Software 
